@@ -1,0 +1,23 @@
+{
+  "name": "backend-mongo-azur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oscar-Nahin-Buezo/Backend-Mongo-Azur.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oscar-Nahin-Buezo/Backend-Mongo-Azur/issues"
+  },
+  "homepage": "https://github.com/Oscar-Nahin-Buezo/Backend-Mongo-Azur#readme",
+  "dependencies": {
+    "@azure/cosmos": "^3.15.1"
+  }
+}
